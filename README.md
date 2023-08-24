@@ -1,3 +1,6 @@
+![medical-icons](https://github.com/MAsad92/Breast-cancer-Prediction/assets/110890421/542d25a1-e3a6-441e-8386-8db2fca643f8)
+
+
 🎗️GitHub project: Breast Cancer Prediction using the powerful SVM algorithm! Explore the realm of data-driven healthcare with preprocessing, Z-score normalization, and pristine data cleaning. 🏥📊
 
 🔍 Dive deep into the data's intricacies through the lens of a Correlation Matrix, unraveling meaningful relationships within the dataset. 📈✨
